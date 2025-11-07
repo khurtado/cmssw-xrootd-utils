@@ -6891,27 +6891,27 @@
   },
   "CMSSW_13_3_0": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     }
   },
@@ -6947,681 +6947,681 @@
   },
   "CMSSW_13_3_0_pre2": {
     "el8_aarch64_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el8_amd64_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el8_ppc64le_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el9_aarch64_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el9_amd64_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "slc7_amd64_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     }
   },
   "CMSSW_13_3_0_pre3": {
     "el8_aarch64_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el8_amd64_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el8_ppc64le_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el9_aarch64_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el9_amd64_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "slc7_amd64_gcc11": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     }
   },
   "CMSSW_13_3_0_pre4": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.1"
     }
   },
   "CMSSW_13_3_0_pre5": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     }
   },
   "CMSSW_13_3_1": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     }
   },
   "CMSSW_13_3_2": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     }
   },
   "CMSSW_13_3_3": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     }
   },
   "CMSSW_14_0_0": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_0_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_0_pre0": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     }
   },
   "CMSSW_14_0_0_pre0_ROOT630": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.2"
     }
   },
   "CMSSW_14_0_0_pre1": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     }
   },
   "CMSSW_14_0_0_pre2": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     }
   },
   "CMSSW_14_0_0_pre2_SKYLAKEAVX512": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.3"
     }
   },
   "CMSSW_14_0_0_pre3": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_0_pre3_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_1": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_10": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_10_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_11": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_11_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_12": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_12_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_13": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_13_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_14": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_14_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_15": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_16": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_17": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_18": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_19": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_2": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_20": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
@@ -7649,589 +7649,589 @@
   },
   "CMSSW_14_0_3": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_4": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_5": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_6": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_6_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_7": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_7_HLTTest": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_7_HLTTest_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_7_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_8": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_8_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_9": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_0_9_MULTIARCHS": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_1_0_pre0": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0_pre1": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0_pre2": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_ppc64le_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0_pre2_ROOT6": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0_pre3": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0_pre4": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0_pre5": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0_pre6": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0_pre6_ROOT6": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0_pre6_ROOT632": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0_pre6_ROOT633": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.6.4"
     }
   },
   "CMSSW_14_1_0_pre7": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_1_1": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_1_2": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_1_3": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_1_4": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_1_5": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_1_5_O2OTest": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_1_6": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_1_7": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
@@ -8281,151 +8281,151 @@
   },
   "CMSSW_14_2_0": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     }
   },
   "CMSSW_14_2_0_pre1": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_2_0_pre1_6e31ebe_ROOT633": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_2_0_pre2": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_2_0_pre2_ROOT632": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.0"
     }
   },
   "CMSSW_14_2_0_pre3": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     }
   },
   "CMSSW_14_2_0_pre4": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     }
   },
   "CMSSW_14_2_0_pre4_ROOT635": {
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     }
   },
   "CMSSW_14_2_1": {
     "el8_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el8_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el9_aarch64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "el9_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     },
     "slc7_amd64_gcc12": {
-      "isTokenReady": true,
+      "isTokenReady": false,
       "xrootd_version": "5.7.1"
     }
   },

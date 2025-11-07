@@ -25,11 +25,11 @@ import re
 from collections import defaultdict
 from typing import Union  # Import Union for backward compatibility
 
-# Note: Changed 'bool | None' to 'Union[bool, None]' for older Python
-def is_version_greater(version_str: str, target_str: str) -> Union[bool, None]:
+# Renamed function to is_version_greater_or_equal
+def is_version_greater_or_equal(version_str: str, target_str: str) -> Union[bool, None]:
     """
-    Compares two version strings (e.g., "5.28.00d", "5.6.0").
-    Returns True if version_str > target_str, False otherwise.
+    Compares two version strings (e.g., "5.28.00d", "5.7.2").
+    Returns True if version_str >= target_str, False otherwise.
     Returns None if parsing fails.
     
     Args:
@@ -37,7 +37,7 @@ def is_version_greater(version_str: str, target_str: str) -> Union[bool, None]:
         target_str (str): The version to compare against.
         
     Returns:
-        Union[bool, None]: True if version_str > target_str, False otherwise.
+        Union[bool, None]: True if version_str >= target_str, False otherwise.
                            None if a version part cannot be parsed.
     """
     try:
@@ -57,8 +57,8 @@ def is_version_greater(version_str: str, target_str: str) -> Union[bool, None]:
             if v < t:
                 return False
         
-        # If all parts are equal, it's not greater
-        return False
+        # If all parts are equal, it *is* greater or equal
+        return True
     except (ValueError, TypeError) as e:
         # Catch errors from int() if a part is empty or invalid
         # after cleaning, (e.g., "5..1" would fail)
@@ -68,7 +68,8 @@ def is_version_greater(version_str: str, target_str: str) -> Union[bool, None]:
         print(f"Warning: Unexpected error comparing '{version_str}' and '{target_str}': {e}", file=sys.stderr)
         return None
 
-def find_xrootd_versions(base_dir="/cvmfs/cms.cern.ch", token_ready_version="5.6.0"):
+# --- UPDATED: Default token_ready_version is now "5.7.2" ---
+def find_xrootd_versions(base_dir="/cvmfs/cms.cern.ch", token_ready_version="5.7.2"):
     """
     Scans the CVMFS directory structure to find XRootD versions
     for all CMSSW releases across all architectures.
@@ -130,19 +131,17 @@ def find_xrootd_versions(base_dir="/cvmfs/cms.cern.ch", token_ready_version="5.6
                             # Get only the part before the dash
                             version = version_full.split("-")[0]
                             
-                            # --- NEW WARNING BLOCK ---
                             # Check if the version string is "unclean"
                             if not clean_version_regex.match(version):
-                                # Re-create the logic from is_version_greater to show the user
+                                # Re-create the logic from is_version_greater_or_equal to show the user
                                 cleaned_version = ".".join([re.sub(r'[^\d]', '', p) for p in version.split('.')])
                                 print(f"Warning: Non-standard XRootD version string '{version}' detected.\n"
                                       f"         Will be parsed as '{cleaned_version}'.\n"
                                       f"         Context: CMSSW={rel}, ARCH={arch}.",
                                       file=sys.stderr)
-                            # --- END NEW WARNING BLOCK ---
 
-                            # Check if the version is greater than the target
-                            is_token_ready = is_version_greater(version, token_ready_version)
+                            # --- UPDATED: Call the renamed function ---
+                            is_token_ready = is_version_greater_or_equal(version, token_ready_version)
                             
                             if is_token_ready is None:
                                 # Parsing failed, print the context-aware warning
@@ -172,6 +171,7 @@ if __name__ == "__main__":
     output_filename = "cmssw_releasex.json"
     
     # Run the main function
+    # It will now use "5.7.2" as the default version to check against
     all_release_data = find_xrootd_versions(base_dir="/cvmfs/cms.cern.ch")
     
     # Write the results to the specified JSON file
